@@ -1,4 +1,4 @@
-summarize_env
+summarize-service-flask
 .vscode
 __pycache__
 requirments.txt
