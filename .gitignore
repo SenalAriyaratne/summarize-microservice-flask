@@ -1,5 +1,6 @@
-summarize-service-flask
+
 .vscode
 __pycache__
 requirments.txt
 resources
+summarize-service-flask
