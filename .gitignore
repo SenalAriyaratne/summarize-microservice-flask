@@ -1,0 +1,5 @@
+summarize_env
+.vscode
+__pycache__
+requirments.txt
+resources
